@@ -1,0 +1,1 @@
+All exercises from the IBM Pytorch Basics for Machine Learning
